@@ -6,3 +6,5 @@
 4) Second is the training CNN which trains the CNN model
 5) Third GroceryListGenertorCNN that detects the quality, quantity and expiry and sends an email alert to the user.
 6) Fourth error analysis which have the experimenting by changing the parameters to acquire a better model with high accuracy.
+
+DataSet Link :- https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
